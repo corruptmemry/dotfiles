@@ -15,3 +15,6 @@
   <a href="https://github.com/corruptmemry/dotfiles/issues">Request a feature</a>
   </p>
 <br />
+
+![image](https://user-images.githubusercontent.com/88046785/162024674-be8a1693-dd0d-4419-955f-88f57dc4d81d.png)
+![image](https://user-images.githubusercontent.com/88046785/162025118-a3c53d1e-0863-48c3-b803-e06323d5fbe3.png)
